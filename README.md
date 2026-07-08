@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/darsh132/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/darsh132/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/darsh132/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/darsh132/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/darsh132/DSA/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/darsh132/DSA/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/darsh132/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/darsh132/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/darsh132/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/darsh132/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/darsh132/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/darsh132/DSA/tree/master/0283-move-zeroes) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/darsh132/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/darsh132/DSA/tree/master/0018-4sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Linked List
 |  |
