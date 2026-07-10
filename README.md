@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/darsh132/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/darsh132/DSA/tree/master/0012-integer-to-roman) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2235-add-two-integers](https://github.com/darsh132/DSA/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
