@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/darsh132/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/darsh132/DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
