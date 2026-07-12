@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/darsh132/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/darsh132/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/darsh132/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/darsh132/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/darsh132/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/darsh132/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/darsh132/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/darsh132/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/darsh132/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/darsh132/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/darsh132/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/darsh132/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/darsh132/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/darsh132/DSA/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/darsh132/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/darsh132/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/darsh132/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Linked List
