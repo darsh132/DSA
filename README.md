@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darsh132/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/darsh132/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/darsh132/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/darsh132/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darsh132/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/darsh132/DSA/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darsh132/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
