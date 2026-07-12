@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darsh132/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/darsh132/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/darsh132/DSA/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/darsh132/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/darsh132/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/darsh132/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/darsh132/DSA/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/darsh132/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/darsh132/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
