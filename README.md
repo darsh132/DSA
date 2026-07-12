@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/darsh132/DSA/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/darsh132/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/darsh132/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/darsh132/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darsh132/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/darsh132/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/darsh132/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/darsh132/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/darsh132/DSA/tree/master/0392-is-subsequence) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/darsh132/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darsh132/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/darsh132/DSA/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darsh132/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/darsh132/DSA/tree/master/2235-add-two-integers) |
