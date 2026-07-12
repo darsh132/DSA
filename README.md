@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/darsh132/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/darsh132/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/darsh132/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/darsh132/DSA/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/darsh132/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/darsh132/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/darsh132/DSA/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/darsh132/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/darsh132/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/darsh132/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
