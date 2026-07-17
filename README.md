@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/darsh132/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/darsh132/DSA/tree/master/0443-string-compression) |
 | [1002-find-common-characters](https://github.com/darsh132/DSA/tree/master/1002-find-common-characters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/darsh132/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/darsh132/DSA/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/darsh132/DSA/tree/master/0020-valid-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/darsh132/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Binary Search
 |  |
 | ------- |
