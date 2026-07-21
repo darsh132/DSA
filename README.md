@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/darsh132/DSA/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/darsh132/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/darsh132/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/darsh132/DSA/tree/master/1768-merge-strings-alternately) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/darsh132/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/darsh132/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/darsh132/DSA/tree/master/0605-can-place-flowers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/darsh132/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/darsh132/DSA/tree/master/0020-valid-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/darsh132/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/darsh132/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/darsh132/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/darsh132/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
