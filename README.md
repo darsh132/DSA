@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/darsh132/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/darsh132/DSA/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/darsh132/DSA/tree/master/1002-find-common-characters) |
+| [1260-shift-2d-grid](https://github.com/darsh132/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/darsh132/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/darsh132/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darsh132/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/darsh132/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/darsh132/DSA/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/darsh132/DSA/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/darsh132/DSA/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/darsh132/DSA/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/darsh132/DSA/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/darsh132/DSA/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
