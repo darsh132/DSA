@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/darsh132/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/darsh132/DSA/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/darsh132/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/darsh132/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/darsh132/DSA/tree/master/0136-single-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/darsh132/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/darsh132/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/darsh132/DSA/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/darsh132/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/darsh132/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
