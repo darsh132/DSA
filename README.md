@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/darsh132/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/darsh132/DSA/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/darsh132/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/darsh132/DSA/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/darsh132/DSA/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/darsh132/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
