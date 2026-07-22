@@ -1,8 +1,19 @@
 public class Solution {
     public int LengthOfLastWord(string s) {
-        string[] splittedString = s.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-        string lastWord = splittedString[splittedString.Length - 1];
-        Console.WriteLine(lastWord);
-        return lastWord.Length;
+        int length = 0;
+        int i = s.Length - 1;
+
+        // Step 1: Skip trailing spaces at the end of the string
+        while(i >= 0 && s[i] == ' ') {
+            i--;
+        }
+
+        // Step 2: Count characters of the last word
+        while(i >= 0 && s[i] != ' ') {
+            length++;
+            i--;
+        }
+
+        return length;
     }
 }
