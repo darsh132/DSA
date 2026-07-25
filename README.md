@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/darsh132/DSA/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/darsh132/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/darsh132/DSA/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/darsh132/DSA/tree/master/0511-game-play-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/darsh132/DSA/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/darsh132/DSA/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
