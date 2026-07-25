@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/darsh132/DSA/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/darsh132/DSA/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/darsh132/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/darsh132/DSA/tree/master/1795-rearrange-products-table) |
 ## Matrix
 |  |
