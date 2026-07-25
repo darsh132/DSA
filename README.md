@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/darsh132/DSA/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/darsh132/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/darsh132/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/darsh132/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/darsh132/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/darsh132/DSA/tree/master/1795-rearrange-products-table) |
