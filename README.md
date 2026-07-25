@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/darsh132/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/darsh132/DSA/tree/master/0197-rising-temperature) |
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
+| [1527-patients-with-a-condition](https://github.com/darsh132/DSA/tree/master/1527-patients-with-a-condition) |
 | [1795-rearrange-products-table](https://github.com/darsh132/DSA/tree/master/1795-rearrange-products-table) |
 ## Matrix
 |  |
