@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/darsh132/DSA/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/darsh132/DSA/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/darsh132/DSA/tree/master/0511-game-play-analysis-i) |
+| [0601-human-traffic-of-stadium](https://github.com/darsh132/DSA/tree/master/0601-human-traffic-of-stadium) |
 | [1084-sales-analysis-iii](https://github.com/darsh132/DSA/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/darsh132/DSA/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
