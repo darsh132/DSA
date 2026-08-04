@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/darsh132/DSA/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/darsh132/DSA/tree/master/2678-number-of-senior-citizens) |
+| [3731-find-missing-elements](https://github.com/darsh132/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/darsh132/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/darsh132/DSA/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/darsh132/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/darsh132/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/darsh132/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/darsh132/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3731-find-missing-elements](https://github.com/darsh132/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
