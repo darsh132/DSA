@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/darsh132/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darsh132/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 | [2235-add-two-integers](https://github.com/darsh132/DSA/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/darsh132/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -354,12 +356,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
