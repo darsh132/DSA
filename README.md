@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/darsh132/DSA/tree/master/0511-game-play-analysis-i) |
 | [0601-human-traffic-of-stadium](https://github.com/darsh132/DSA/tree/master/0601-human-traffic-of-stadium) |
 | [1084-sales-analysis-iii](https://github.com/darsh132/DSA/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/darsh132/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/darsh132/DSA/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/darsh132/DSA/tree/master/1484-group-sold-products-by-the-date) |
