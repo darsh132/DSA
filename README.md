@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/darsh132/DSA/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/darsh132/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/darsh132/DSA/tree/master/1179-reformat-department-table) |
+| [1393-capital-gainloss](https://github.com/darsh132/DSA/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/darsh132/DSA/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/darsh132/DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/darsh132/DSA/tree/master/1527-patients-with-a-condition) |
