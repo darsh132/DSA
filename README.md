@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/darsh132/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/darsh132/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/darsh132/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/darsh132/DSA/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/darsh132/DSA/tree/master/1002-find-common-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/darsh132/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/darsh132/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darsh132/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darsh132/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/darsh132/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 ## Sorting
@@ -382,18 +385,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 ## Nim Game
