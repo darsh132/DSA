@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/darsh132/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/darsh132/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1408-string-matching-in-an-array](https://github.com/darsh132/DSA/tree/master/1408-string-matching-in-an-array) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/darsh132/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/darsh132/DSA/tree/master/1768-merge-strings-alternately) |
 | [2678-number-of-senior-citizens](https://github.com/darsh132/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/darsh132/DSA/tree/master/3110-score-of-a-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darsh132/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/darsh132/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/darsh132/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
 | ------- |
