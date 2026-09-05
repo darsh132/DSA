@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/darsh132/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/darsh132/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/darsh132/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/darsh132/DSA/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/darsh132/DSA/tree/master/2678-number-of-senior-citizens) |
