@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 | [2235-add-two-integers](https://github.com/darsh132/DSA/tree/master/2235-add-two-integers) |
+| [3870-count-commas-in-range](https://github.com/darsh132/DSA/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |
