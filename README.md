@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/darsh132/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/darsh132/DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/darsh132/DSA/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/darsh132/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/darsh132/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/darsh132/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/darsh132/DSA/tree/master/3731-find-missing-elements) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/darsh132/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/darsh132/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/darsh132/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/darsh132/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
 |  |
 | ------- |
