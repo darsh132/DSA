@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darsh132/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/darsh132/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/darsh132/DSA/tree/master/2678-number-of-senior-citizens) |
+| [2833-furthest-point-from-origin](https://github.com/darsh132/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/darsh132/DSA/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/darsh132/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darsh132/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/darsh132/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/darsh132/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/darsh132/DSA/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
