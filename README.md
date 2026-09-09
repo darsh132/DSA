@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/darsh132/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darsh132/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/darsh132/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/darsh132/DSA/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/darsh132/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3731-find-missing-elements](https://github.com/darsh132/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darsh132/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/darsh132/DSA/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/darsh132/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/darsh132/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2540-minimum-common-value](https://github.com/darsh132/DSA/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/darsh132/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darsh132/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/darsh132/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/darsh132/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/darsh132/DSA/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/darsh132/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/darsh132/DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darsh132/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/darsh132/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/darsh132/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/darsh132/DSA/tree/master/2540-minimum-common-value) |
 ## Backtracking
 |  |
 | ------- |
