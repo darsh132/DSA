@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/darsh132/DSA/tree/master/2235-add-two-integers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/darsh132/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/darsh132/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/darsh132/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
