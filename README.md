@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/darsh132/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/darsh132/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/darsh132/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/darsh132/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/darsh132/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/darsh132/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/darsh132/DSA/tree/master/0877-stone-game) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/darsh132/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/darsh132/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/darsh132/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/darsh132/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/darsh132/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/darsh132/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darsh132/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/darsh132/DSA/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/darsh132/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
